@@ -1,0 +1,6 @@
+[public]
+name=Public collections for Enterprise Linux $releasever - $basearch
+baseurl=http://purplegrape.github.io/centos/$releasever/x86_64/
+gpgcheck=0
+enabled=1
+skip_if_unavailable=true
